@@ -40,3 +40,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+/src/app/secret
+/src/assets/JoshuaHallResume.pdf
+/src/app/random-apps
